@@ -3,7 +3,7 @@
 
 - 💻 Técnica em informática (IFRN)
 - 🎓 Graduanda em Análise e desenvolvimento de sistemas (IFRN)
-- 👩‍💻 Atualmente apredendo Java Script
+- 👩‍💻 Atualmente apredendo Java Script e C++
 - 🌱 Pronomes: ela/dela
 
 <div>
