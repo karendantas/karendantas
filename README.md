@@ -3,7 +3,7 @@
 
 - 💻 Técnica em informática (IFRN)
 - 🎓 Graduanda em Análise e desenvolvimento de sistemas (IFRN)
-- 👩‍💻 Atualmente apredendo React
+- 👩‍💻 Atualmente apredendoDjango
 - 🌱 Pronomes: ela/dela
 
 <div>
