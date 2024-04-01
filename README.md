@@ -3,20 +3,25 @@
 
 - 💻 Técnica em informática (IFRN)
 - 🎓 Graduanda em Análise e desenvolvimento de sistemas (IFRN)
-- 👩‍💻 Atualmente apredendo C#
+- 👩‍💻 Atualmente apredendo React Native
 - 🌱 Pronomes: ela/dela
 
+<!--
 <div>
   <a href="https://github.com/karendantas">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=karendantas&show_icons=true&border_radius=15&theme=gruvbox#gh-gruvbox-mode-only">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karendantas&layout=compact&langs_count=16&border_radius=15&theme=gruvbox#gh-gruvbox-mode-only">
+    
 </div>
-
+-->
 <div>
-  <img align="center" alt="Karen-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Karen-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Karen-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Karen-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Karen-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+
+#
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
+![ReactNative](https://img.shields.io/badge/reactnative-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%CF9FFF)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 
+
 
 </div>
