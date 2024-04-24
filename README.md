@@ -6,14 +6,14 @@
 - 👩‍💻 Atualmente apredendo React Native
 - 🌱 Pronomes: ela/dela
 
-<!--
+
 <div>
   <a href="https://github.com/karendantas">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=karendantas&show_icons=true&border_radius=15&theme=gruvbox#gh-gruvbox-mode-only">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karendantas&layout=compact&langs_count=16&border_radius=15&theme=gruvbox#gh-gruvbox-mode-only">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=karendantas&show_icons=true&border_radius=5&theme=dracula#gh-dracula-mode-only">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karendantas&layout=compact&langs_count=16&border_radius=5&theme=dracula#gh-dracula-mode-only">
     
 </div>
--->
+
 <div>
 
 #
