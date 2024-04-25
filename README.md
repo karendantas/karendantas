@@ -4,7 +4,7 @@
 - 💻 Técnica em informática (IFRN)
 - 🎓 Graduanda em Análise e desenvolvimento de sistemas (IFRN)
 - 👩‍💻 Atualmente apredendo React Native
-- 🌱 Pronomes: ela/dela
+- 👽 Pronomes: ela/dela
 
 
 <div>
