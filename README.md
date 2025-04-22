@@ -3,8 +3,8 @@
 
 - 💻 Técnica em informática (IFRN)
 - 🎓 Graduanda em Análise e desenvolvimento de sistemas (IFRN)
-- 👩‍💻 Atualmente aprendendo React e NextJs
-- 👽 Pronomes: ela/dela
+- 👩‍💻 Desenvolvedora mobile com React Native
+
 
 
 <div>
